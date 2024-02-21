@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611319471324",
+    "project_id": "widbazaar",
+    "storage_bucket": "widbazaar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611319471324:android:338a86474417e282bc2819",
+        "android_client_info": {
+          "package_name": "com.widbajaar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIK4pnf7kTnhcqHw7VtH6HNDAklcku9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
